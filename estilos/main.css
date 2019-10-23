@@ -1,0 +1,86 @@
+*{
+    margin: 1%;
+}
+
+h1{
+    background: darkkhaki;
+    border: 3px blue double;
+    margin-top: 1%;
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+.inicio .imagenes{
+    background: cyan;
+    margin-left:5%;
+    display: inline-block;
+    text-align: center;
+    width: 1140px;
+    max-height: 200px;
+}
+.inicio .imagenes .img1{
+    width: 120px;
+    height: 180px;
+    float: left;
+}
+.inicio .imagenes .img2{
+    width: 280px;
+    height: 180px;
+    float: left;
+}
+.inicio .imagenes .img3{
+    width: 250px;
+    height: 180px;
+    float: left;
+}
+.inicio .imagenes .img4{
+    width: 250px;
+    height: 180px;
+    float: left;
+}
+.inicio .imagenes .img5{
+    width: 120px;
+    height: 180px;
+    float: left;
+}
+.navegacion{
+    background: rgba(133, 69, 235, 0.308) ;
+    width: 18%;
+    height: 500px;
+    float: left;
+    border: black solid;
+    border-radius: 8px;
+}
+
+.h4seccion{
+    text-align: center;
+}
+
+.seccion{
+    margin-left: 0%;
+    border: 4px black groove;
+    width: 59%;
+    float: left;
+}
+
+.seccion .articulo{
+    text-align: justify;
+}
+
+.aside .gif0{
+    width: 16%;
+    float: left;
+}
+
+.aside .gif1{
+    width: 16%;
+    float: left;
+}
+
+.datos{
+ clear: both;
+ text-align: center;
+ border: 1px black solid;
+}
