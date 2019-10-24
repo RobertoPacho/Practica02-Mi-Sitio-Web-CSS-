@@ -13,34 +13,45 @@ h6{
 }
 
 .inicio .imagenes{
-    background: cyan;
+    background:#0c5050;;
     margin-left:5%;
     display: inline-block;
     text-align: center;
-    width: 1140px;
-    max-height: 200px;
+    width: 1071px;
+    max-height: 281px;
 }
 .inicio .imagenes .img1{
-    width: 120px;
+    width: 140px;
     height: 180px;
     float: left;
 }
 .inicio .imagenes .img2{
-    width: 280px;
+    width: 140px;
     height: 180px;
     float: left;
 }
 .inicio .imagenes .img3{
-    width: 250px;
+    width: 140px;
     height: 180px;
     float: left;
 }
 .inicio .imagenes .img4{
-    width: 250px;
+    width: 140px;
     height: 180px;
     float: left;
 }
 .inicio .imagenes .img5{
+    width: 120px;
+    height: 180px;
+    float: left;
+}
+
+.inicio .imagenes .img6{
+    width: 120px;
+    height: 180px;
+    float: left;
+}
+.inicio .imagenes .img7{
     width: 120px;
     height: 180px;
     float: left;
@@ -54,6 +65,12 @@ h6{
     border-radius: 8px;
 }
 
+.seccion .articulo .img7{
+    width: 369px;
+    height: 457px;
+    float: left;
+}
+
 .h4seccion{
     text-align: center;
 }
@@ -61,34 +78,12 @@ h6{
 .seccion{
     margin-left: 0%;
     border: 4px black groove;
-    width: 59%;
+    width: 77%;
     float: left;
 }
 
 .seccion .articulo{
     text-align: justify;
-}
-
-.aside{
-    background:rgba(39, 35, 30, 0.199);
-    margin-left: 0%;
-    display: inline-block;
-    text-align: center;
-    width: 210px;
-    max-height: 504px;
-    border:black solid;
-    border-radius: 8px;
-}
-
-.aside .gif0{
-    width: 205px;
-    float: left;
-    
-}
-
-.aside .gif1{
-    width: 205px;
-    float: left;
 }
 
 .datos{
