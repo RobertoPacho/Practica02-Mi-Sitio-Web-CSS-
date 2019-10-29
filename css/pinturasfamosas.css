@@ -1,0 +1,27 @@
+.inicio .imagenes{
+    background:black !important;
+    margin-left: 30%;
+    display: inline-block;
+    text-align: center;
+    width: 425px;
+    max-height: 281px;
+}
+
+.inicio .imagenes .img1 {
+    width: 415px !important;
+    height: 210px !important;
+    float: left ;
+}
+
+.seccion .img7 {
+    width: 636px !important;
+    height: 391px !important;
+    float: left ;
+    margin-left: 13% ;
+}
+
+.seccion h3{
+    text-align: center !important;
+    float: left ;
+    margin-left: 11%;
+}
